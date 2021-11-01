@@ -1,0 +1,15 @@
+Ország	OrszágID
+Argentína	1
+Ausztrália	2
+Chile	3
+Egyesült Államok	4
+Egyesült Királyság	5
+Franciaország	6
+India	7
+Japán	8
+Kína	9
+Németország	10
+Olaszország	11
+Orosz Föderáció	12
+Ukrajna	13
+Uruguay	14
