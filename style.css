@@ -1,0 +1,31 @@
+body {
+    margin-top: 50px;
+    margin-left: 50px;
+    height: auto;
+    width: auto;
+    background: powderblue;
+}
+
+input[type = text] {
+    width: 175px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
+
+input[type = text]:hover {
+    background: lightgrey;
+}
+
+input[type = submit] {
+    width: 150px;
+    margin-top: 20px;
+    border-bottom: 5px;
+    border-radius: 5px;
+    border: solid 2px black;
+    
+}
+
+input[type = submit]:hover {
+    
+    background: gray;
+}

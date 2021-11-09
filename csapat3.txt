@@ -1,0 +1,17 @@
+Bakos Miklós
+
+A módosító oldalé: modosit.php
+
+Bárdfalvi Roland
+A törlõ oldalé: torol.php
+
+Maday Gábor
+Az adatok hozzáadása oldal kapja az alábbi nevet: bovit.php
+css
+
+
+
+
+
+
+A kezdõoldal neve legyen (ez tartalmazza a menüket): index.php
