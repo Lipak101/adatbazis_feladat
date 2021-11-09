@@ -1,0 +1,10 @@
+git checkout "branch neve" - átvált az adott branch-re
+git branch "nev" - létrehozza a megadott nevû branch-et
+git clone "link" - így tudod letölteni a fájlokat az adott linkrõl
+git push --set-upstream origin "branch neve" 
+	- ezzel töltöd fel az adoot fájlban lévõ fájlokat
+	- mégmielött pusholnál csinálj egy commit-et "commit -m "amit akrasz""
+	- csak abba a file-ba tudsz push-olni amiben megvan az engedéjed
+commit - kommentelni lehet vele
+git pull //legyél benne abba a branchbe amit le akarsz tölteni - letölti a változatatott elemeket
+git branch - megmutatja mejik branch-be vagy
